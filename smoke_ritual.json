@@ -1,0 +1,33 @@
+{
+  "ritual_id": "myosin_smoke_offering",
+  "title": "妙心園煙供儀軌",
+  "version": "2025-12-23",
+  "daily_practice": true,
+  "available_after": "15:00",
+  "steps": [
+    {
+      "step_id": "smoke_01",
+      "type": "action",
+      "content": {
+        "chinese": "（點一炷香）"
+      }
+    },
+    {
+      "step_id": "smoke_02",
+      "type": "recitation",
+      "repeat": 3,
+      "content": {
+        "sanskrit": "om amṛte hūṃ phaṭ",
+        "iast": "om amṛte hūṃ phaṭ",
+        "chinese": "恭請南無無量香光明如來香薰供養諸佛菩薩聖者護法"
+      }
+    },
+    {
+      "step_id": "smoke_03",
+      "type": "action",
+      "content": {
+        "chinese": "（點燃煙供粉）"
+      }
+    }
+  ]
+}
